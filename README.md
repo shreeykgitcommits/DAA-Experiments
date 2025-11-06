@@ -69,3 +69,22 @@ Each program is **well-commented**, easy to follow, and demonstrates **core algo
 - **Time Complexity:** O(V²)**  
 
 ---
+
+## ✅ **6. Dijkstra’s Algorithm (Shortest Paths)**
+- Finds shortest distances from a given source vertex  
+- Works for graphs with **non-negative weights**  
+- Implemented using adjacency matrix  
+- Time Complexity: **O(V²)**  
+
+
+# 👤 Author
+
+## **Shree**
+### Infornmation Technology | C++ | DAA | Problem Solving
+
+Hello! I’m Shree, SYIT
+Roll No: 24141026 I2
+This repository contains my complete work for **Design & Analysis of Algorithms (DAA)**, written in a clean, beginner-friendly style to help others learn.
+
+
+
