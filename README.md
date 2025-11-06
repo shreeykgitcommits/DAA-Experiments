@@ -80,7 +80,7 @@ Each program is **well-commented**, easy to follow, and demonstrates **core algo
 # 👤 Author
 
 ## **Shree**
-## Infornmation Technology | 24141026 | I2 |DAA
+## Information Technology | 24141026 | I2 |DAA
  
 This repository contains my complete work for **Design & Analysis of Algorithms (DAA)**, written in a clean, beginner-friendly style to help others learn.
 
