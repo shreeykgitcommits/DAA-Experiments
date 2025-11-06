@@ -80,10 +80,8 @@ Each program is **well-commented**, easy to follow, and demonstrates **core algo
 # 👤 Author
 
 ## **Shree**
-### Infornmation Technology | C++ | DAA | Problem Solving
-
-Hello! I’m Shree, SYIT
-Roll No: 24141026 I2
+## Infornmation Technology | 24141026 | I2 |DAA
+ 
 This repository contains my complete work for **Design & Analysis of Algorithms (DAA)**, written in a clean, beginner-friendly style to help others learn.
 
 
